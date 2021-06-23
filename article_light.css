@@ -1,0 +1,13 @@
+.appyet_visitwebsite {background-color:#ffd500}
+.appyet_title {font-weight: bold;margin-top: 15px; font-family: AppYet-Condensed-Sans; line-height: 28px}
+.appyet_title_unread{color: #000000}
+.appyet_title_read {color: #888888}
+.appyet_subtitle {width: 100%; font-size: 10px; color:#999999; border-top:solid 1px #dddddd;border-bottom:solid 1px #dddddd;line-height: 1.5em;padding-top:4px; padding-bottom:3px}
+.h1 {font-size: 16px; line-height: 19px;font-weight: bold;} 
+.h2 {font-size: 16px; line-height: 20px;font-weight: bold;}
+.h3 {font-size: 16px; line-height: 20px;font-weight: bold;} 
+.appyet_subtitle .publisher {color:#ff0000;font-weight: bold;}
+.appyet_subtitle .author {color:#999999;font-weight: bold;}
+.appyet_subtitle .time {color:#999999;}
+.appyet_subtitle .divider {color:#14B3DB;}
+.appyet_article {text-align: left;}
